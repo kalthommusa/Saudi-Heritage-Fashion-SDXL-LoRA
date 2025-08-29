@@ -446,13 +446,13 @@ The examples below highlight samples with the higher and lower CLIP outcomes, sh
 
 | SHF’s Generated Output                                      | Prompt Used                                                                                                                                    |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](readme-images/generated/women/asiri/asiri_woman_12.png)  | *"Saudi woman, Asiri heritage dress, chest and sleeve embroidery, detailed patterns, artistic illustration"* |
+| ![](readme-images/generated/women/asiri/asiri_woman_12.png)  | *"Asiri woman, heritage straw hat with orange headscarf, traditional dress, embroidered sleeves, traditional jewelry, cultural visualization"* |
 | ![](readme-images/generated/women/asiri/asiri_woman_83.png) | *"Saudi Asiri woman, traditional Asiri dress, silver embroidery, heritage clothing, artistic illustration"*                                 |
-| ![](readme-images/generated/women/asiri/asiri_woman_74.png) | *"A woman wearing a cultural Saudi Asiri heritage fashion, artistic illustration"*                                                                              |
-| ![](readme-images/generated/women/asiri/asiri_woman_1.png) | *"Saudi woman, traditional Asiri dress, orange headband, heritage outfit, cultural visualization"*                                          |
+| ![](readme-images/generated/women/asiri/asiri_woman_74.png) | *"Saudi woman, traditional Asiri dress, orange headband, heritage outfit, cultural visualization"*                                                                              |
+| ![](readme-images/generated/women/asiri/asiri_woman_1.png) | *"A woman wearing a cultural Saudi Asiri heritage fashion, artistic illustration"*                                          |
 | ![](readme-images/generated/women/asiri/asiri_woman_9.png) | *"Saudi Asiri woman, traditional Asiri dress, silver embroidery, heritage clothing, artistic illustration"*                                                                              |
 | ![](readme-images/generated/women/asiri/asiri_woman_38.png) | *"Saudi woman dressed in Asiri heritage clothing, orange headband, artistic illustration"*                                          |
-| ![](readme-images/generated/women/asiri/asiri_woman_78.png) | *"Asiri woman, traditional dress, silver embroidery, mountain background, digital art"*                                                                              |
+| ![](readme-images/generated/women/asiri/asiri_woman_85.png) | *"Asiri woman, traditional dress, silver embroidery, mountain background, digital art"*                                                                              |
 | ![](readme-images/generated/women/asiri/asiri_woman_58.png) | *"Asiri woman, heritage straw hat, yellow scarf, traditional dress, embroidered sleeves, traditional jewelry, cultural visualization"*                                          |
 | ![](readme-images/generated/women/asiri/asiri_woman_66.png) | *"Saudi Asiri woman, traditional Asiri dress, silver embroidery, heritage clothing, artistic illustration"*                                          |
 
