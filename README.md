@@ -401,9 +401,9 @@ The below are examples of generations closest to and farthest from real-image di
 | ![](readme-images/real/women/hijazi/hijazi_woman_41.png) | ![](readme-images/generated/women/hijazi/hijazi_woman_12.png) |
 | ![](readme-images/real/women/hijazi/hijazi_woman_21.png) | ![](readme-images/generated/women/hijazi/hijazi_woman_25.png) |
 | ![](readme-images/real/women/hijazi/hijazi_woman_32.png) | ![](readme-images/generated/women/hijazi/hijazi_woman_17.png) |
-| ![](readme-images/real/women/hijazi/hijazi_woman_84.png) | ![](readme-images/generated/women/hijazi/hijazi_woman_85.png) |
-| ![](readme-images/real/women/hijazi/hijazi_woman_77.png) | ![](readme-images/generated/women/hijazi/hijazi_woman_81.png) |
 | ![](readme-images/real/women/hijazi/hijazi_woman_39.png) | ![](readme-images/generated/women/hijazi/hijazi_woman_1.png)  |
+| ![](readme-images/real/women/hijazi/hijazi_woman_77.png) | ![](readme-images/generated/women/hijazi/hijazi_woman_81.png) |
+| ![](readme-images/real/women/hijazi/hijazi_woman_54.png) | ![](readme-images/generated/women/hijazi/hijazi_woman_85.png) |
 
 
 ### Most divergent from real-image distribution (Men — Hijazi Style):
